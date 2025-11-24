@@ -53,7 +53,7 @@ El video demostrativo se encuentra en: [Demo Petapa OnTrack](/demo/demo.mp4)
 El informe final del proyecto está disponible en: [Informe Final Petapa OnTrack](/docs/informe_final.pdf)
 
 ## Autores
-- Jimena Hernández (GitHub: Kojimena)
+- Karen Jimena Hernández Ortega, carnet:21199 (GitHub: Kojimena) 
 
 ## Licencia
 License: MIT
